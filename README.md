@@ -1,2 +1,34 @@
-# owndestinations
-My supercalifragilisticexpialidoucious website!
+<!doctype html> 
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Facebook - Đăng nhập hoặc đăng ký</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">  
+		<link href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/800px-Facebook_f_logo_%282019%29.svg.png" rel="shortcut icon"/>
+		<style>
+			.in {
+				border-radius: 7px;
+			}
+		</style>
+	</head>
+	<body style="background-color: #f0f2f5;">
+		<table style="height: 300px; margin-left: auto; margin-right: auto; margin-top: 130px;">
+			<thead>
+				<th style="text-align: left; padding-right: 93px;">
+					<p style="margin-bottom: 0;"><img style="height: 106px;" src="https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg" alt=""></p>
+					<p style="margin-left: 30px; margin-top: 0; font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif; font-size: 28px; font-weight: normal; line-height: 32px; width: 500px;">Facebook giúp bạn kết nối và chia sẻ với mọi người trong cuộc sống của bạn.</p>
+				</th>
+				<th class="in" style=" background-color: white; height: 350px; box-shadow: 1px 1px 1px #AAA;">
+					<form style="margin: 10px;">
+						<p><input class="in" type="email" placeholder="Email hoặc số điện thoại" style="width: 320px; height: 20px; font-size: 17px; padding: 14px 16px;" type="text"/></p>
+						<p><input class="in" placeholder="Mật khẩu" style="width: 320px; height: 20px; font-size: 17px; padding: 14px 16px;" type="password"/></p>
+						<button class="in" style="height: 50px; width: 356px; background-color:#1877f2; color: white; font-size: 20px; font-weight: 700; border: 1px solid #1877f2;">Đăng nhập</button>
+						<p style="text-align: center; font-weight: 500; color: #1877f2; font-size: 14px; font-family: arial;">Quên mật khẩu?</p>
+						<p style="margin-left: 10px; margin-right: 10px; background-color: #dadde1; height:  1px; width: 400px;"></p>
+						<button class="in" style="height: 50px; width: 180px; background-color:#42b72a; color: white; font-size: 17px; font-weight: 700; border: 1px solid #42b72a;">Tạo tài khoản mới</button>
+					</form>
+				</th>
+			</thead>
+		</table>
+	</body>
+</html>
